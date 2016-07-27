@@ -31,5 +31,3 @@ These scripts have been tested using:
 - Tecplot 360 EX 2015 R2
 - Python 2.7.11 Anaconda 2.3.0
     
-
-# MakeContour
