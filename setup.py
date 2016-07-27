@@ -31,6 +31,6 @@ setup(name = 'MakeContour',
 
 	install_requires=['numpy','scipy'],
 	license = 'Creative Commons Attribution-Noncommercial-Share Alike license',
-	keywords = ['macrosegregation', 'segmenation', 'visaliziation', 'contour']
+	keywords = ['macrosegregation', 'mesh', 'visaliziation', 'contour']
 
 	)
