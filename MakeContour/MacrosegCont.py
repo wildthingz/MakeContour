@@ -211,8 +211,8 @@ class ContOp(ImgMesh):
 		self.toTecplot()
 		
 
-img = ImgMesh()
-img.Mesh(30)
-img.plotMesh()
-cont = ContOp(img,[40,120])
-cont.Iterate()
+#img = ImgMesh()
+#img.Mesh(30)
+#img.plotMesh()
+#cont = ContOp(img,[40,120])
+#cont.Iterate()
