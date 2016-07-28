@@ -28,8 +28,6 @@ setup(name = 'MakeContour',
 		'Intended Audience :: End Users/Desktop',
 		'Natural Language :: English',
 		],
-
-	install_requires=['numpy','scipy'],
 	license = 'Creative Commons Attribution-Noncommercial-Share Alike license',
 	keywords = ['macrosegregation', 'mesh', 'visaliziation', 'contour']
 
