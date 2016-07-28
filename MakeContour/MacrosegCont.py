@@ -34,7 +34,7 @@ class ImgMesh():
 		for arg in args:
 			if arg[:2]=='pc':
 				poreCrit=int(arg[2:])
-			elif arg[:2]=='dr':
+			elif arg[:2]=='dr':
 				diskRad=int(arg[2:])
 			elif arg[:2]=='fr':
 				filtRad=int(arg[2:])
