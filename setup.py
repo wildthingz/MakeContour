@@ -13,7 +13,7 @@ setup(name = 'MakeContour',
 	url = 'https://github.com/wildthingz/MakeContour',
 	author = 'Hatef Khadivinassab',
 	author_email = 'hatef.hadivinassab@gmail.com',
-
+	packages = ['MakeContour']
 	classifiers=[
 		"Development Status :: 3 - Alpha",
         "License :: OSI Approved :: MIT License",
